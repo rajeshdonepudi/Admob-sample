@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Admob Sample</string>
+    <string name="click_here_to_display_interstitial_ad">Click here to display Interstitial Ad</string>
+</resources>
